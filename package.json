@@ -1,6 +1,6 @@
 {
   "name": "commajs-video",
-  "version": "1.0.35",
+  "version": "1.0.36",
   "description": "Commajs - The WYSIWYG framework -  video plugin",
   "main": "dist/commajs-video.min.js",
   "repository": {
